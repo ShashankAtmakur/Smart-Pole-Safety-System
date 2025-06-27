@@ -94,7 +94,7 @@ if (digitalRead(btnPin) == HIGH) {
 
 ## 👨‍💻 Developed By
 
-**A. Shashank**  
+**A. Shashank & Team**  
 Diploma in Computer Engineering  
 Government Polytechnic, Warangal (2021–2024)
 
