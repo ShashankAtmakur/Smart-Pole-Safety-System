@@ -50,7 +50,8 @@ To develop a real-time emergency alert and response system embedded into smart s
 ## 📂 Project Structure
 - `/code/` – Arduino source code
 - `/docs/` – Project documentation
-- `/images/` – Screenshots and diagrams
+- `/output-images/` – Output Screenshots
+- `/Models/` - Arduino Model Architecture Designs
 
 ## 💡 Features
 
