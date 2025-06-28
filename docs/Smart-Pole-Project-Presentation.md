@@ -7,3 +7,5 @@ I couldn't able to upload it to GitHub cause of file size restrictions
 
 ## Remastered Version Compatable for MS Office 2007
 ![Smart-Pole-Project-Presentation-2007]( https://1drv.ms/p/c/ed18e38de61d79ef/Ee95HeaN4xgggO1SBAAAAAABUr5TDtmCQRACIui1vOY1rw?e=iewJfX )
+
+https://1drv.ms/p/c/ed18e38de61d79ef/Ee95HeaN4xgggO1SBAAAAAABUr5TDtmCQRACIui1vOY1rw?e=tOWhLE
