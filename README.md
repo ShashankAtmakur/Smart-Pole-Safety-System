@@ -1,3 +1,6 @@
+![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 # Smart Pole – Be Smart and Safe 🚨🌐
 
