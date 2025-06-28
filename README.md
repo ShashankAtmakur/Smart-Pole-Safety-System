@@ -44,6 +44,11 @@ To develop a real-time emergency alert and response system embedded into smart s
 5. Message with coordinates is sent via GSM
 6. Police receive location alert and respond
 
+## 📂 Project Structure
+- `/code/` – Arduino source code
+- `/docs/` – Project documentation
+- `/images/` – Screenshots and diagrams
+
 ## 💡 Features
 
 - Immediate visual and audible alert
@@ -97,6 +102,9 @@ if (digitalRead(btnPin) == HIGH) {
 **A. Shashank & Team**  
 Diploma in Computer Engineering  
 Government Polytechnic, Warangal (2021–2024)
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## 📚 References
 
